@@ -1,0 +1,17 @@
+{
+    "name": "ajc.usecases",
+    "rootNamespace": "",
+    "references": [
+        "GUID:94bb1b2b31b0dd4409c2cfbfc47b49d8",
+        "GUID:f4a9f1a1b10fbd14b8b1a761c90e765d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
